@@ -1,4 +1,4 @@
-#Node Pet Shop
+# Node Pet Shop
 
 How to run:
 1) Please ensure you have the latest stable versions of Node and npm.
